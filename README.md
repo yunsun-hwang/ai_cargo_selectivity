@@ -10,7 +10,7 @@
 - 수입신고 데이터는 23개의 항목과 37385건의 데이터로 구성
 - 수입신고 기본 항목 21가지와 결과에 해당하는 우범여부, 핵심적발 2가지를 이용하여 수입화물의 우범도를 예측
 - Raw Data Sample
-<img src="img\sample data.png" width="400" height="200" >
+<img src="img\sample data.png" >
 
 4. 데이터 전처리
 <img src="img\plot importance.png" width="400" height="200" >
