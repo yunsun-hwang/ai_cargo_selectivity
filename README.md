@@ -13,7 +13,7 @@
 <img src="img\sample data.png" >
 
 4. 데이터 전처리
-<img src="img\plot importance.png" width="400" height="200" >
+<img src="img\plot importance.png">
 - XGBoost의 plot_importance를 이용하여 변수 중요도를 시각화한 결과 하위 4개의 변수 ‘운송수단유형코드’, ‘특송업체부호’, ‘수입거래구분코드’, ‘수입종류코드’ 삭제
 - 데이터 분석 결과 항목 별 우범여부의 차이가 크지 않은 열을 각각 테스트 후 ‘Id’, ‘신고번호’, ‘신고일자’, ‘수입자’, ‘신고인부호’, ‘해외거래처부호’, ‘수입신고구분코드’ 삭제
 - 카테고리형 변수를 LabelEncoder 클래스를 활용해 수치형으로 변환
