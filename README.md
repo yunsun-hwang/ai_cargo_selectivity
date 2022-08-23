@@ -23,6 +23,7 @@
 - XGBOOST
 
 6. 모델 성능
+
 우범화물
 ||precision|recall|f1-score|
 |------|---|---|-------|
